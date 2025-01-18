@@ -1,16 +1,14 @@
 
 # Form-Builder
 
-- Your task is to a form builder that allows users to add different types of input fields dynamically. Include options for text inputs, checkboxes, and radio buttons. Each added field should be displayed in a preview area.
+This application allows you to build your own forms. You can choose from text inputs, checkbox and radio buttons.
 
-
-- The UI should resemble the example shown below..
-
-![Image](https://utfs.io/f/9174ecc0-b9c4-454c-9db6-2d6f1ed6138d-ng35bm.png)
+![image](https://github.com/user-attachments/assets/fe7f3200-4d0d-436a-8b47-1c65e2f0c746)
 
 
 
-### Don't copy UI as it is, only take reference from it.
+
+
 
 
 
